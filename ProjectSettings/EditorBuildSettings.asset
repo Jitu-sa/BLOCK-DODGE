@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/nutcracker.unity
+    guid: 56173af403ca93845962051de4a5e727
+  - enabled: 1
+    path: Assets/Scenes/HOME.unity
+    guid: 0d33fa23b51d79e4cbd278d2c7d7f561
+  - enabled: 1
+    path: Assets/Scenes/MAIN_SCENE.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/gameover.unity
+    guid: 2fa6a6ed4ff19d842b368b7eca574b3d
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 62c0cbdb985d70242a9bcce1f8cd83d6, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 345c35a046014b8448fe8e167c06fd00, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 135b300876ba76a4e96cca35233d41fb, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: f5d4597423bcae046a5275bcdd9b4afd, type: 2}

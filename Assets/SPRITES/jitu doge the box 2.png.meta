@@ -1,0 +1,1174 @@
+fileFormatVersion: 2
+guid: 865adb6bf59fcf1478ceb3649ad20132
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jitu doge the box 2_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1182
+        width: 315
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b1fa21c929f740b969f02c5816c52
+      internalID: 516988899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 469
+        width: 41
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ab50500e7ae8c41a3dfd5e66f926ea
+      internalID: -1606491014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 707
+        width: 318
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8332fcd8a3c47b342b23259f81df8c03
+      internalID: 2144310832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 716
+        width: 337
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f631a3d231c14a8fe1a105b66db34
+      internalID: 1772325843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_4
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 709
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d82f4d517f5b54294653e5f82fb2b7
+      internalID: 1395237490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 703
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0279456c49db2d74fb7ad6ef2cb48b6d
+      internalID: -186994659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 697
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a05fbbe2516e4429198d2381a422d8
+      internalID: 725555878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 462
+        width: 319
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c7b3f59a7f2fb41a9377c1a188e3b9
+      internalID: 532482619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 433
+        width: 343
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0be9d489cf8e4448bca6c7e15a16f8a
+      internalID: 1616685444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 557
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb87caf16dc58a429a121956b9cce7f
+      internalID: -948019075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 557
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea355427fd1ba94aae811fddd1503da
+      internalID: -1562059463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_11
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 547
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2bc59a4bec9cf459a4c5e7fd023b4d
+      internalID: 1923867968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 557
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1096b740caa7734ba00458ddb6fd9f1
+      internalID: -513528091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 557
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4f3b66369899241af302d1b5b5b73a
+      internalID: 917409262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_14
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 557
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43999e10eb1686942a79d72f44084b20
+      internalID: -1381182604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 557
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c79cb98e2b31f4fa2eb8ad60cd68a1
+      internalID: -878810922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_16
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 557
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb5efc4b555af34589f3f08ea2f4d39
+      internalID: -872101275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_17
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 547
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc41adbea754ee4ebe686dfe1a117d1
+      internalID: 1342929519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_18
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 528
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff4d553bda8f5745b1d517feabace32
+      internalID: -1228210557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_19
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 528
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca39c5f5bfaea3a49b5b7a6fcdcc9b71
+      internalID: 1712820198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_20
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 528
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf08f82845a92b48959c665560d83d6
+      internalID: -11787010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_21
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 522
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ee3d470c263c548a81bde85ca56477
+      internalID: -1662608971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_22
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 528
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af12cbcb28471674da469614e2a62ab9
+      internalID: -1525513577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 522
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d77478c015df134085bd83776d59373
+      internalID: 368241939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_24
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 433
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56bed6438e5ef343abfbd836866012b
+      internalID: 691205308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_25
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 522
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704e8c03e233f1a4f83fe762356a9ee2
+      internalID: -1605457867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_26
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 522
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b18b5af5daa894da85fa8e0b27d442
+      internalID: -758519602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_27
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 516
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeec2d2c8cde05a4a8109e417d4751fd
+      internalID: -1705594997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 510
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232db1b02cb1aad4992754ff2df40bc2
+      internalID: -1532731601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_29
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 474
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc614051c2c59f5439593a6281f6430d
+      internalID: -1836183566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_30
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 444
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb970c70a527f4346ab09b989a346b3c
+      internalID: 75352011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_31
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 475
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e105ee782b2e47b6864167e8a51df
+      internalID: -1788859041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_32
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 465
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed3b7b43b34b344b0930515a1d99af
+      internalID: -188149827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_33
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 475
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b5e55f7c5a292498e1622ba519e248
+      internalID: -564322662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_34
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 475
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8231c52c590440f4b8962443e1610837
+      internalID: 14104148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_35
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 475
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ca2ffac9b6e244cb72946748fbfb22
+      internalID: 1544932458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 463
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f6d4c3ddacfa4e88e38f850ad2c4c
+      internalID: 261969747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 457
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac211908a27f9a841a0ab67baf29f1cb
+      internalID: -63014737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_38
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 434
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e40b203b80c6ce40835ad7d610a0490
+      internalID: -1503343962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 451
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e9e40ee775c044b0988b30ff1070a
+      internalID: -729986675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_40
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 444
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad91a1ce579be324abaecfffefca11a3
+      internalID: 1162688627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 445
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdf87127b697f3439953ecf83aba34a
+      internalID: -474562504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_42
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 444
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f3096eccec5ff41a75a11447862650
+      internalID: -2053366174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_43
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 444
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1cfb54555c0c4a8214dd237e7f860
+      internalID: 822597667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_44
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 444
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d0f76498947f428560e10013649d4
+      internalID: 251494677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 439
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23931a1fd93d9e4ead43c164b1248c7
+      internalID: 1588430990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitu doge the box 2_46
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 439
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b252a6835463fd046999d09a416ce979
+      internalID: -966595600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jitu doge the box 2_0: 516988899
+      jitu doge the box 2_1: -1606491014
+      jitu doge the box 2_10: -1562059463
+      jitu doge the box 2_11: 1923867968
+      jitu doge the box 2_12: -513528091
+      jitu doge the box 2_13: 917409262
+      jitu doge the box 2_14: -1381182604
+      jitu doge the box 2_15: -878810922
+      jitu doge the box 2_16: -872101275
+      jitu doge the box 2_17: 1342929519
+      jitu doge the box 2_18: -1228210557
+      jitu doge the box 2_19: 1712820198
+      jitu doge the box 2_2: 2144310832
+      jitu doge the box 2_20: -11787010
+      jitu doge the box 2_21: -1662608971
+      jitu doge the box 2_22: -1525513577
+      jitu doge the box 2_23: 368241939
+      jitu doge the box 2_24: 691205308
+      jitu doge the box 2_25: -1605457867
+      jitu doge the box 2_26: -758519602
+      jitu doge the box 2_27: -1705594997
+      jitu doge the box 2_28: -1532731601
+      jitu doge the box 2_29: -1836183566
+      jitu doge the box 2_3: 1772325843
+      jitu doge the box 2_30: 75352011
+      jitu doge the box 2_31: -1788859041
+      jitu doge the box 2_32: -188149827
+      jitu doge the box 2_33: -564322662
+      jitu doge the box 2_34: 14104148
+      jitu doge the box 2_35: 1544932458
+      jitu doge the box 2_36: 261969747
+      jitu doge the box 2_37: -63014737
+      jitu doge the box 2_38: -1503343962
+      jitu doge the box 2_39: -729986675
+      jitu doge the box 2_4: 1395237490
+      jitu doge the box 2_40: 1162688627
+      jitu doge the box 2_41: -474562504
+      jitu doge the box 2_42: -2053366174
+      jitu doge the box 2_43: 822597667
+      jitu doge the box 2_44: 251494677
+      jitu doge the box 2_45: 1588430990
+      jitu doge the box 2_46: -966595600
+      jitu doge the box 2_5: -186994659
+      jitu doge the box 2_6: 725555878
+      jitu doge the box 2_7: 532482619
+      jitu doge the box 2_8: 1616685444
+      jitu doge the box 2_9: -948019075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
